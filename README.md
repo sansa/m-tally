@@ -1,4 +1,7 @@
 # README
+mjoof
+https://2MCorp@dev.azure.com/2MCorp/GPA%20-%20Tally%20Based%20System/_git/M-Tally%20Reporting
+mmonsthhoywywun7eczka5eoq3t7jkh5lytyi4xjmsvlkqjrdadq
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
